@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/wreck.png
+image: images/wreck.PNG
 title: Item Rental Service
 permalink: projects/rental
 # All dates must be YYYY-MM-DD format!

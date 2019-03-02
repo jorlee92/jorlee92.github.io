@@ -116,6 +116,18 @@
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
       ]
+    },
+    {
+      "company": "Blackboard, Inc",
+      "position": "Support Desk Technician",
+      "website": "https://www.blackboard.com",
+      "startDate": "June 2018",
+      "endDate": "August 2018",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
     }
   ],
   "volunteer": [
@@ -145,12 +157,11 @@
       ]
     }
   ],
-  "awards": [
+  "certifications": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Comptia A+/Project+",
+      "date": "2018-Present",
+      "awarder": "Comptia",
     },
     {
       "title": "First place",

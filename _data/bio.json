@@ -29,20 +29,13 @@
         "network": "twitter",
         "username": "jorlee92",
         "url": "http://twitter.com/jorlee92"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Web Development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -90,6 +83,14 @@
       "gpa": "",
       "courses": [
       ]
+    },
+    {
+      "institution": "Stark State College",
+      "area": "Computer Networking",
+      "studyType": "A.S.",
+      "gpa": "",
+      "courses": [
+      ]
     }
   ],
   "work": [
@@ -130,44 +131,21 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
   "certifications": [
     {
       "title": "Comptia A+/Project+",
-      "date": "2018-Present",
+      "date": "2018 - Present",
       "awarder": "Comptia"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Mobile Web Specialist Nanodegree",
+      "date": "2018 - Present",
+      "awarder": "Udacity"
+    },
+    {
+      "title": "ITIL Foundations",
+      "date": "2017 - Present",
+      "awarder": "AXELOS"
     }
   ],
   "references": [

@@ -23,6 +23,5 @@ More details about how I began building this project can be found on [my medium 
 
 This is my third re-do of this project, the previous version can be found [Here](https://github.com/jorlee92/fcc-voting-v2), I constanstantly find myself looking at projects like this and realizing that I was doing things in a way I dont like anymore, like using nested promises, or that I wish I had used a different technology, like react, so I re-do the project.
  
- [Frontend Repo](https://github.com/jorlee92/fcc-voting-frontend)
+ [Frontend Repo](https://github.com/jorlee92/fcc-voting-frontend)  
  [Backend Repo](https://github.com/jorlee92/fcc-voting)
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>

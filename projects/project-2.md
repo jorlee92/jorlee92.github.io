@@ -1,25 +1,28 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/fcc-glyph.png
+title: FreeCodeCamp polling site.
+permalink: projects/polling
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-2-20
 labels:
   - Javascript
-  - Meteor
+  - React
   - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Bootstrap
+summary: A Node/Express/React polling site.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+I Built this polling site using React/Express/MongoDB based on the requirements located on [this FreeCodeCamp challenge](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/build-a-voting-app/)
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+You can log in using Oauth2 and your google account, and provided you are logged in you can create new polls. 
+Even if you are not logged in you can vote on existing polls.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+More details about how I began building this project can be found on [my medium blog](https://medium.com/@jorlee92/recreating-my-freecodecamp-polling-site-part-one-115d0a0473fc)
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+This is my third re-do of this project, the previous version can be found [Here](https://github.com/jorlee92/fcc-voting-v2), I constanstantly find myself looking at projects like this and realizing that I was doing things in a way I dont like anymore, like using nested promises, or that I wish I had used a different technology, like react, so I re-do the project.
  
+ [Frontend Repo](https://github.com/jorlee92/fcc-voting-frontend)
+ [Backend Repo](https://github.com/jorlee92/fcc-voting)
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>

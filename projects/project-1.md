@@ -13,7 +13,7 @@ labels:
 summary: I was part of a team that created an inventory rental website built using NodeJS/Express, React and Redux.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/wreck.png">
+<img class="ui medium right floated rounded image" src="../images/wreck.PNG">
 
 In this project I was part of a team that built a website for an imaginary company that wanted customers to be able to rent equipment and track the history of items, and customers rental histories.
 
@@ -27,17 +27,6 @@ Project requirements included:
 
 My Group built this project using Node, Express, React, and Redux. We also used libraries such as jest for testing, and nodemailer for email functionality.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
 View Here [Live View](https://wreck-ur-life.herokuapp.com).
 

@@ -5,7 +5,7 @@ image: images/fcc-glyph.png
 title: FreeCodeCamp polling site.
 permalink: projects/polling
 # All dates must be YYYY-MM-DD format!
-date: 2019-2-20
+date: 2019-02-20
 labels:
   - Javascript
   - React

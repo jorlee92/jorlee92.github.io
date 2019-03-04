@@ -52,7 +52,13 @@
         </div>
         <script>
     
-        GitHubCalendar("#github-container", "jorlee92", {responsive: true})
+        GitHubCalendar("#github-container", "jorlee92", {responsive: true}).then(() => {
+            // This seems like the easiest way to get this to work, otherwise I need to actually rebuild the calendar JS.
+            const br = document.createElement("br")
+            const calendar = document.querySelectorAll(".position-relative")[0];
+            calendar.appendChild(br);
+        })
+
         
     
         </script>

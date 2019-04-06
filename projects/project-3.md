@@ -5,7 +5,7 @@ image: images/bitcoin.png
 title: Crypto Market.
 permalink: projects/crypto-market
 # All dates must be YYYY-MM-DD format!
-date: 2019-02-20
+date: 2019-04-06
 labels:
   - Javascript (Node/Express)
   - React

@@ -81,7 +81,7 @@
       "startDate": "2018-02-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": ["SQL", "Java with JavaFX", "Data Structures and Algorithms"
       ]
     },
     {
@@ -146,6 +146,11 @@
       "title": "ITIL Foundations",
       "date": "2017 - Present",
       "awarder": "AXELOS"
+    },
+    {
+      "title": "Oracle Database Certified Associate",
+      "date": "2019 - Present",
+      "awarder": "Oracle"
     }
   ],
   "references": [

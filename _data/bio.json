@@ -79,7 +79,7 @@
       "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2018-02-01",
-      "endDate": "Present",
+      "endDate": "2019-06-01",
       "gpa": "",
       "courses": ["SQL", "Java with JavaFX", "Data Structures and Algorithms"
       ]
@@ -94,12 +94,23 @@
     }
   ],
   "work": [
+        {
+      "company": "Greenlight Cost Management",
+      "position": "Jr. Software Engineer",
+      "website": "",
+      "startDate": "2019-07-29",
+      "endDate": "2019-11-11",
+      "summary": "Jr. Software Engineer",
+      "highlights": [
+        "Developed features and updates for Customer Facing Dashboard",
+        "Completed bug fixes and changes to other projects as requested by management."      ]
+    },
     {
       "company": "Intraedge Technology",
       "position": "Entry Level Programmer",
       "website": "",
       "startDate": "2019-02-04",
-      "endDate": "Present",
+      "endDate": "2019-07-01",
       "summary": "Entry Level Programmer/Trainee",
       "highlights": [
         "Received training on JavaScript and Java and completed group projects"
